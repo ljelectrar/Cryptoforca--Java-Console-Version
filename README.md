@@ -18,3 +18,7 @@ This class dynamic helped me to achieve high engagement with the students, espec
 </br>
 
 ![](https://github.com/ljelectrar/assets/blob/main/projects%20screenshots/criptoforca-java-2.png)
+
+</br>
+
+![](https://www.youtube.com/watch?v=chNY0fSDbDw)
